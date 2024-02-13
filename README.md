@@ -26,3 +26,5 @@
 
 ![Python](https://img.shields.io/badge/Python-00BEF2?style=for-the-badge&logo=Python)
 ![SQL](https://img.shields.io/badge/SQL-00BEF2?style=for-the-badge&logo=PostgreSQL)
+![Git](https://img.shields.io/badge/Git-00BEF2?style=for-the-badge&logo=Git)
+![Tableau](https://img.shields.io/badge/Tableau-00BEF2?style=for-the-badge&logo=Tableau)
