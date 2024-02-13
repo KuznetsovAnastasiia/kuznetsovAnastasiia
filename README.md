@@ -22,5 +22,7 @@
 
 Учебные проекты
 
-Навыки
+## Навыки
 
+![Python](https://img.shields.io/badge/Python-00BEF2?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-0889AD?style=for-the-badge)
