@@ -20,7 +20,15 @@
 - построение воронки продаж оффлайн квестов (данные взяла с курса Тинькофф, создала локальную базу данных (PgAdmin4), в Jupyter Notebook написала SQL-запрос к локальной БД).
 [ссылка на проект](https://github.com/KuznetsovAnastasiia/SQL_QUESTS_FUNNEL/blob/main/SQL_QUESTS_FUNNEL.ipynb)
 
-Учебные проекты
+## Учебные проекты
+| Наименовение проекта<br />ссылка на проект | Задача исследования | Навыки и инструменты |
+|----------|----------|----------|
+| [Исследование объявлений о продаже квартир](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/1_Исследование_объявлений_о_продаже_квартир.ipynb) | Определить рыночную стоимость объектов недвижимости<br />и типичные параметры квартир | обработка данных, категоризация,<br />pandas, statistics, numpy, matplotlib |
+| [Исследование данных о продаже видеоигр](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/2_Исследование%20данных%20о%20продаже%20видеоигр.ipynb) | Изучить закономерности, определяющие успешность игр | обработка данных, статистический тест Стьюдента,<br />pandas, statistics, numpy, scipy,<br />matplotlib, seaborn |
+| [Анализ убытков приложения ProcrastinatePRO+](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/3_Анализ%20убытков%20приложения%20ProcrastinatePRO%2B.ipynb) | Выявить причины неэффективной рекламы | когортный анализ, юнит-экономика,<br />продуктовые метрики (LTV, CAC, ROI),<br />pandas, statistics, numpy, scipy,<br />matplotlib, seaborn |
+| [Анализ поведения пользователей мобильного приложения<br />(продажа продуктов питания)](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/4_Анализ%20поведения%20пользователей%20мобильного%20приложения.ipynb) | Проанализировать воронку продаж,<br />оценить результаты A/A/B-тестирования | A/B-тестирование, продуктовые метрики,<br />проверка статистических гипотез,<br />pandas, statistics, numpy, scipy,<br />matplotlib, seaborn |
+| [Исследование рынка общественного питания Москвы](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/5_Исследование%20рынка%20общественного%20питания%20Москвы.ipynb) | Изучить данные о заведениях общественного<br />питания Москвы, на основе данных выбрать<br />оптимальное место для открытия новой кофейни | обработка данных, геоаналитика<br />pandas, numpy, matplotlib, seaborn, plotly, folium |
+| [Телеком — Определение неэффективных операторов](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/6_Телеком%20—%20Определение%20неэффективных%20операторов.ipynb) | Разработка методологии выявления<br />неэффективных операторов колл-центров | обработка данных, проверка статических гипотез,<br />pandas, statistics, numpy,<br />matplotlib, seaborn |
 
 ## Навыки
 
