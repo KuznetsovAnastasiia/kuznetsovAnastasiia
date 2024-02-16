@@ -11,14 +11,19 @@
 
 Изучаю математическую статистику, английский язык, продолжаю изучать SQL, Python в области анализа данных, разрабатываю pet-проекты. </div>
 
-## Pet-проекты
+## Навыки
 
-- парсинг данных с hh.ru о вакансиях на позицию Аналитик данных (парсинг осуществила в Visual Studio Code, данные исследовала в Jupyter Notebook);
-[ссылка на проект](https://github.com/KuznetsovAnastasiia/HH_RU_PARSING/blob/main/HH_RU_PARSING.ipynb)
-- оценка результатов A/B-теста (введение нового рекламного баннера, данные взяла с Kaggle);
-[ссылка на проект](https://github.com/KuznetsovAnastasiia/AB-TEST-ADVERTISING/blob/main/AB%20TEST%20ADVERTISING.ipynb)
-- построение воронки продаж оффлайн квестов (данные взяла с курса Тинькофф, создала локальную базу данных (PgAdmin4), в Jupyter Notebook написала SQL-запрос к локальной БД).
-[ссылка на проект](https://github.com/KuznetsovAnastasiia/SQL_QUESTS_FUNNEL/blob/main/SQL_QUESTS_FUNNEL.ipynb)
+![Python](https://img.shields.io/badge/Python-00BEF2?style=for-the-badge&logo=Python)
+![SQL](https://img.shields.io/badge/SQL-00BEF2?style=for-the-badge&logo=PostgreSQL)
+![Git](https://img.shields.io/badge/Git-00BEF2?style=for-the-badge&logo=Git)
+![Tableau](https://img.shields.io/badge/Tableau-00BEF2?style=for-the-badge&logo=Tableau)
+
+## Pet-проекты
+| Наименовение проекта<br />ссылка на проект | Задача исследования | Используемые инструменты |
+|----------|----------|----------|
+|[Парсинг данных с hh.ru<br />о вакансиях на позицию Аналитик данных](https://github.com/KuznetsovAnastasiia/HH_RU_PARSING/blob/main/HH_RU_PARSING.ipynb)|Спарсить с сайта hh.ru данные о вакансиях<br />на позицию "Анатилик данных",<br />исследовать полученные данные| Python (requests, BeautifulSoup, fake_useragent,<br />time, json (парсинг данных),<br />pandas (создание новых столбцов в датасете<br />(работа со строковыми данными, выделение отдельных слов/фраз),<br />создание таблиц, работа с пропусками,<br />типами данных, группировка),<br />seaborn, matplotlib (визуалиция данных: построение графиков))|
+|[Оценка результатов A/B-теста<br />(введение нового рекламного баннера)](https://github.com/KuznetsovAnastasiia/AB-TEST-ADVERTISING/blob/main/AB%20TEST%20ADVERTISING.ipynb)| Представлены результаты проведения A/B-теста (Kaggle.com),<br />необходимо оценить изменение целовой метрики<br />(принять решение о целесообразности<br />введения нового баннера)| Python (pandas (работа с пропусками,<br />типами данных, объединение таблиц, группировка),<br />numpy (применение статического критерия),<br />seaborn, matplotlib<br />(визуалиция данных: построение воронки продаж))|
+|[Исследование воронки продаж игровых оффлайн квестов](https://github.com/KuznetsovAnastasiia/SQL_QUESTS_FUNNEL/blob/main/SQL_QUESTS_FUNNEL.ipynb)|Построить воронку, которая показывала бы в динамике<br />по неделям и месяцам, сколько клиентов посещает сайт,<br />и какая доля из них регистрируется на нём, подаёт заявку на игру,<br />по факту приходит на неё (данные взяла с курса Тинькофф,<br />создала локальную базу данных (PgAdmin4),<br />в Jupyter Notebook написала SQL-запрос к локальной БД)|PostgreSQL (pgAdmin4, командная строка,<br />SQL Shell (psql): создание базы данных,<br />загрузка данных из .csv файлов),<br />SQL (создание сводной таблицы: объединие таблиц БД;<br />использование условной конструкции CASE,<br />функции DATE_PART), Python (pandas (работа с типами данных,<br />создание таблиц, группировка),<br />seaborn, matplotlib<br />(визуалиция данных: построение воронки продаж))|
 
 ## Учебные проекты
 | Наименовение проекта<br />ссылка на проект | Задача исследования | Навыки и инструменты |
@@ -29,10 +34,3 @@
 | [Анализ поведения пользователей мобильного приложения<br />(продажа продуктов питания)](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/4_Анализ%20поведения%20пользователей%20мобильного%20приложения.ipynb) | Проанализировать воронку продаж,<br />оценить результаты A/A/B-тестирования | A/B-тестирование, продуктовые метрики,<br />проверка статистических гипотез,<br />pandas, statistics, numpy, scipy,<br />matplotlib, seaborn |
 | [Исследование рынка общественного питания Москвы](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/5_Исследование%20рынка%20общественного%20питания%20Москвы.ipynb) | Изучить данные о заведениях общественного<br />питания Москвы, на основе данных выбрать<br />оптимальное место для открытия новой кофейни | обработка данных, геоаналитика<br />pandas, numpy, matplotlib, seaborn, plotly, folium |
 | [Телеком — Определение неэффективных операторов](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/6_Телеком%20—%20Определение%20неэффективных%20операторов.ipynb) | Разработка методологии выявления<br />неэффективных операторов колл-центров | обработка данных, проверка статических гипотез,<br />pandas, statistics, numpy,<br />matplotlib, seaborn |
-
-## Навыки
-
-![Python](https://img.shields.io/badge/Python-00BEF2?style=for-the-badge&logo=Python)
-![SQL](https://img.shields.io/badge/SQL-00BEF2?style=for-the-badge&logo=PostgreSQL)
-![Git](https://img.shields.io/badge/Git-00BEF2?style=for-the-badge&logo=Git)
-![Tableau](https://img.shields.io/badge/Tableau-00BEF2?style=for-the-badge&logo=Tableau)
