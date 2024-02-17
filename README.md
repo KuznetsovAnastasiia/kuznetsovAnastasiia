@@ -13,10 +13,14 @@
 
 ## Навыки
 
-![Python](https://img.shields.io/badge/Python-00BEF2?style=for-the-badge&logo=Python)
 ![SQL](https://img.shields.io/badge/SQL-00BEF2?style=for-the-badge&logo=PostgreSQL)
-![Git](https://img.shields.io/badge/Git-00BEF2?style=for-the-badge&logo=Git)
-![Tableau](https://img.shields.io/badge/Tableau-00BEF2?style=for-the-badge&logo=Tableau)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/git-%2307405e.svg?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%2300f.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## Pet-проекты
 | Наименовение проекта<br />ссылка на проект | Задача исследования | Используемые инструменты |
@@ -32,5 +36,5 @@
 | [Исследование данных о продаже видеоигр](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/2_Исследование%20данных%20о%20продаже%20видеоигр.ipynb) | Изучить закономерности, определяющие успешность игр | обработка данных, статистический тест Стьюдента,<br />pandas, statistics, numpy, scipy,<br />matplotlib, seaborn |
 | [Анализ убытков приложения ProcrastinatePRO+](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/3_Анализ%20убытков%20приложения%20ProcrastinatePRO%2B.ipynb) | Выявить причины неэффективной рекламы | когортный анализ, юнит-экономика,<br />продуктовые метрики (LTV, CAC, ROI),<br />pandas, statistics, numpy, scipy,<br />matplotlib, seaborn |
 | [Анализ поведения пользователей мобильного приложения<br />(продажа продуктов питания)](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/4_Анализ%20поведения%20пользователей%20мобильного%20приложения.ipynb) | Проанализировать воронку продаж,<br />оценить результаты A/A/B-тестирования | A/B-тестирование, продуктовые метрики,<br />проверка статистических гипотез,<br />pandas, statistics, numpy, scipy,<br />matplotlib, seaborn |
-| [Исследование рынка общественного питания Москвы](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/5_Исследование%20рынка%20общественного%20питания%20Москвы.ipynb) | Изучить данные о заведениях общественного<br />питания Москвы, на основе данных выбрать<br />оптимальное место для открытия новой кофейни | обработка данных, геоаналитика<br />pandas, numpy, matplotlib, seaborn, plotly, folium |
+| [Исследование рынка общественного питания Москвы](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/5_Исследование%20рынка%20общественного%20питания%20Москвы.ipynb) | Изучить данные о заведениях общественного<br />питания Москвы, на основе данных выбрать<br />оптимальное место для открытия новой кофейни | обработка данных, геоаналитика,<br />pandas, numpy, matplotlib, seaborn, plotly |
 | [Телеком — Определение неэффективных операторов](https://github.com/KuznetsovAnastasiia/educational_projects/blob/main/6_Телеком%20—%20Определение%20неэффективных%20операторов.ipynb) | Разработка методологии выявления<br />неэффективных операторов колл-центров | обработка данных, проверка статических гипотез,<br />pandas, statistics, numpy,<br />matplotlib, seaborn |
