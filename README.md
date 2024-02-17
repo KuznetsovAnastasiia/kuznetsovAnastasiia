@@ -11,6 +11,8 @@
 
 Изучаю математическую статистику, английский язык, продолжаю изучать SQL, Python в области анализа данных, разрабатываю pet-проекты. </div>
 
+![Сертификаты о прохождении курсов](https://github.com/KuznetsovAnastasiia/certificates)
+
 ## Навыки
 
 ![SQL](https://img.shields.io/badge/SQL-00BEF2?style=for-the-badge&logo=PostgreSQL)
