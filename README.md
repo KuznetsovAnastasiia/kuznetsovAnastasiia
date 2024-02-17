@@ -11,7 +11,7 @@
 
 Изучаю математическую статистику, английский язык, продолжаю изучать SQL, Python в области анализа данных, разрабатываю pet-проекты. </div>
 
-![Сертификаты о прохождении курсов](https://github.com/KuznetsovAnastasiia/certificates)
+[Сертификаты о прохождении курсов](https://github.com/KuznetsovAnastasiia/certificates)
 
 ## Навыки
 
